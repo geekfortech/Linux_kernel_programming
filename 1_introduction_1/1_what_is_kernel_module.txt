@@ -67,3 +67,4 @@ CONFIG_MODULES=y
 
 To find kernel modules, go to /lib/modules/`uname -r`-generic/kernel and run find . -name "*.ko"
 To check config option, go into /boot and run cat config-`uname -r`-generic/kernel
+
